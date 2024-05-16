@@ -8,7 +8,7 @@ Each question is implemented in Java & C++ and is organized in separate files.
 
 1. **Rectangle area:**([java](Assignment1/rectArea.java),[C++](Assignment1/rectArea.cpp)) Program to calculate the area of a rectangle.
 
-2. **:**([java](Assignment1/.java),[C++](Assignment1/.cpp)) Program to calculate the sum of square of the first number and cube of the second number.
+2. **a^2+b^3:**([java](Assignment1/sqCubeSum.java),[C++](Assignment1/sqCubeSum.cpp)) Program to calculate the sum of square of the first number and cube of the second number.
 
 3. **:**([java](Assignment1/.java),[C++](Assignment1/.cpp)) Program to calculate the value of a quadratic function.
 
