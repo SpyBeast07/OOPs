@@ -6,7 +6,7 @@ This repository contains the solutions to the Object Oriented Programming assign
 Each question is implemented in Java & C++ and is organized in separate files.
 ## Part 1: Simple Digit Programs
 
-1. **:**([java](Assignment1/.java),[C++](Assignment1/.cpp)) Program to calculate the area of a rectangle.
+1. **Rectangle area:**([java](Assignment1/rectArea.java),[C++](Assignment1/rectArea.cpp)) Program to calculate the area of a rectangle.
 
 2. **:**([java](Assignment1/.java),[C++](Assignment1/.cpp)) Program to calculate the sum of square of the first number and cube of the second number.
 
