@@ -43,59 +43,51 @@ program, which reads 4 numbers a, b, c and p. Let f(x)=ax2+bx+c be a Method. The
 
 1. **sum of nos:**([java](Assignment1/noSum.java),[C++](Assignment1/noSum.cpp)) Write JAVA & C++ program which reads n numbers and finds their sum e.g if n is 5 and given numbers are 33, 100, 77, 42 and 12 then output is 33+100+77+42+12=264.
 
-2. **Sum of last digits:**([java](Assignment1/.java),[C++](Assignment1/.cpp)) Write JAVA & C++ program, which finds the sum of last digits (in above case 3+0+7+2+2=14).
+2. **Sum of last digits:**([java](Assignment1/lastDigiSum.java),[C++](Assignment1/lastDigiSum.cpp)) Write JAVA & C++ program, which finds the sum of last digits (in above case 3+0+7+2+2=14).
 
-3. **Sum of 2nd last digit:**([java](Assignment1/.java),[C++](Assignment1/.cpp)) Write JAVA & C++ program, which finds the sum of second last digits (3+0+7+4+1=15).
+3. **Sum of 2nd last digit:**([java](Assignment1/last2ndDigiSum.java),[C++](Assignment1/last2ndDigiSum.cpp)) Write JAVA & C++ program, which finds the sum of second last digits (3+0+7+4+1=15).
 
-4. **Sum after 2nd last delete:**([java](Assignment1/.java),[C++](Assignment1/.cpp)) Write JAVA & C++ program to find the sum of numbers after deleting second last digit. (3+10+7+2+2=24)
+4. **Sum after 2nd last delete:**([java](Assignment1/delLast2ndDigiSum.java),[C++](Assignment1/delLast2ndDigiSum.cpp)) Write JAVA & C++ program to find the sum of numbers after deleting second last digit. (3+10+7+2+2=24)
 
-5. **Weighted sum of even nos:**([java](Assignment1/.java),[C++](Assignment1/.cpp)) Write JAVA & C++ program, which finds the weighted sum of even numbers. The weight of ith even number is i (in above case 1x100 + 2x42 + 3x12 = 220).
+5. **Weighted sum of even nos:**([java](Assignment1/weightedSum.java),[C++](Assignment1/weightedSum.cpp)) Write JAVA & C++ program, which finds the weighted sum of even numbers. The weight of ith even number is i (in above case 1x100 + 2x42 + 3x12 = 220).
 
-6. **Sum and product:**([java](Assignment1/.java),[C++](Assignment1/.cpp)) Write JAVA & C++ program, which finds sum of the product of two consecutive numbers (in above case 33x100 + 100x77 + 77x42 + 42x12=14738).
+6. **Sum and product:**([java](Assignment1/sumProd2Cons.java),[C++](Assignment1/sumProd2Cons.cpp)) Write JAVA & C++ program, which finds sum of the product of two consecutive numbers (in above case 33x100 + 100x77 + 77x42 + 42x12=14738).
 
-7. **Sum of even:**([java](Assignment1/.java),[C++](Assignment1/.cpp)) Write JAVA & C++ program, which finds the sum of all numbers from first even number onwards. If n=14 and given numbers are 3, 7, 4, 3, 2, 12, 11, 9, 1, 6, 8, 7, 10 and 17 then the answer is 4+3+2+12+11+9+1+6+8+7+10+17 = 90).
+7. **Sum of even:**([java](Assignment1/sumAfterEven.java),[C++](Assignment1/sumAfterEven.cpp)) Write JAVA & C++ program, which finds the sum of all numbers from first even number onwards. If n=14 and given numbers are 3, 7, 4, 3, 2, 12, 11, 9, 1, 6, 8, 7, 10 and 17 then the answer is 4+3+2+12+11+9+1+6+8+7+10+17 = 90).
 
-8. **2nd last even digit:**([java](Assignment1/.java),[C++](Assignment1/.cpp)) Write JAVA & C++ program to print the second last even digit. e.g. input 23863 output 8 (do not use ‘if’). Input 325145761 output 4. [Hint: use two loops]
+8. **2nd last even digit:**([java](Assignment1/last2ndEven.java),[C++](Assignment1/last2ndEven.cpp)) Write JAVA & C++ program to print the second last even digit. e.g. input 23863 output 8 (do not use ‘if’). Input 325145761 output 4. [Hint: use two loops]
 
-9. **Sum of consecutives:**([java](Assignment1/.java),[C++](Assignment1/.cpp)) Write JAVA & C++ program, which finds the sum of numbers formed by consecutive digits. Input 2415 output 24+41+15=80.
+9. **Sum of consecutives:**([java](Assignment1/consSum.java),[C++](Assignment1/consSum.cpp)) Write JAVA & C++ program, which finds the sum of numbers formed by consecutive digits. Input 2415 output 24+41+15=80.
 
-10. **Exchanging consecutive:**([java](Assignment1/.java),[C++](Assignment1/.cpp)) Find sum of numbers formed by exchanging consecutive digits. In above 42+14+51=107.
+10. **Exchanging consecutive:**([java](Assignment1/consExcSum.java),[C++](Assignment1/consExcSum.cpp)) Find sum of numbers formed by exchanging consecutive digits. In above 42+14+51=107.
 
 ## Part 4: Arrays, Loops, and Decision Statement
 
-1. **Max no:**([java](Assignment1/.java),[C++](Assignment1/.cpp)) Write JAVA & C++ programs read n and n numbers and find their maximum e.g if n=5 and given numbers are 32, 100, 77, 83 and 12 then output is 100
+1. **Max no:**([java](Assignment1/maxOfN.java),[C++](Assignment1/maxOfN.cpp)) Write JAVA & C++ programs read n and n numbers and find their maximum e.g if n=5 and given numbers are 32, 100, 77, 83 and 12 then output is 100
 
-2. **Sum except max no:**([java](Assignment1/.java),[C++](Assignment1/.cpp)) Write JAVA & C++ program to find the sum of all numbers except the maximum number. Assume that the maximum number is present only once. Do not use subtraction.
+2. **Sum except max no:**([java](Assignment1/SumExcpMax.java),[C++](Assignment1/SumExcpMax.cpp)) Write JAVA & C++ program to find the sum of all numbers except the maximum number. Assume that the maximum number is present only once. Do not use subtraction.
 
-3. **Max digits:**([java](Assignment1/.java),[C++](Assignment1/.cpp)) Write JAVA & C++ program, which finds the number with maximum sum of digits. e.g. if numbers are 325, 199, 800 then answer is 199.
+3. **Max digits:**([java](Assignment1/maxSumOfDigi.java),[C++](Assignment1/maxSumOfDigi.cpp)) Write JAVA & C++ program, which finds the number with maximum sum of digits. e.g. if numbers are 325, 199, 800 then answer is 199.
 
-4. **Delete max digit:**([java](Assignment1/.java),[C++](Assignment1/.cpp)) Write JAVA & C++ program, which reads a number and deletes the maximum digit. Assume that all digits in the number are distinct. e.g. input 237436 output 23436.
-
-5. **Delete max with occurence:**([java](Assignment1/.java),[C++](Assignment1/.cpp)) Do above problem when the maximum digit can be present many times. e.g. input 137828381 output 137231.
-
-6. **Dlete max sum with occurence:**([java](Assignment1/.java),[C++](Assignment1/.cpp)) Write JAVA & C++ program, which finds the number with maximum sum of digits. e.g. if numbers are 325, 199, 800 then answer is 199.
-
-7. **Delete max digit:**([java](Assignment1/.java),[C++](Assignment1/.cpp)) Write JAVA & C++ program, which reads a number and deletes the maximum digit. Assume that all digits in the number are distinct. e.g. input 237436 output 23436.
-
-8. **Delete multiple max digits:**([java](Assignment1/.java),[C++](Assignment1/.cpp)) Do above problem when the maximum digit can be present many times. e.g. input 137828381 output 137231.
+4. **Delete max digit:**([java](Assignment1/delMaxDigi.java),[C++](Assignment1/delMaxDigi.cpp)) Write JAVA & C++ program, which reads a number and deletes the maximum digit. Assume that all digits in the number are distinct. e.g. input 237436 output 23436.
 
 ## Part 5: Nested Loop
 
-1. **Sum of 1st digits:**([java](Assignment1/.java),[C++](Assignment1/.cpp)) Write JAVA & C++ program, which find the sum of first digits e.g. if n=5 and given numbers are 33, 100, 77, 42 and 12 then output is 3+1+7+4+1=16. [First digit]
+1. **Sum of 1st digits:**([java](Assignment1/sum1stDigi.java),[C++](Assignment1/sum1stDigi.cpp)) Write JAVA & C++ program, which find the sum of first digits e.g. if n=5 and given numbers are 33, 100, 77, 42 and 12 then output is 3+1+7+4+1=16. [First digit]
 
-2. **Sum with 1st digit 1:**([java](Assignment1/.java),[C++](Assignment1/.cpp)) Write JAVA & C++ program, which finds sum of those numbers whose first digit is 1. (in above case 100+12=112) [First digit]
+2. **Sum with 1st digit 1:**([java](Assignment1/FirstDigi1.java),[C++](Assignment1/FirstDigi1.cpp)) Write JAVA & C++ program, which finds sum of those numbers whose first digit is 1. (in above case 100+12=112) [First digit]
 
-3. **Sum after reversing:**([java](Assignment1/.java),[C++](Assignment1/.cpp)) Write a JAVA & C++ program, which finds the sum of numbers after reversing. (in above case 33+001+77+24+21=156). [reverse]
+3. **Sum after reversing:**([java](Assignment1/reversedSum.java),[C++](Assignment1/reversedSum.cpp)) Write a JAVA & C++ program, which finds the sum of numbers after reversing. (in above case 33+001+77+24+21=156). [reverse]
 
-4. **Prime numbers:**([java](Assignment1/.java),[C++](Assignment1/.cpp)) Write JAVA & C++ program, which reads n and n numbers and finds how many of them are prime. e.g. if n=6 and given numbers are 7, 13, 16, 27, 11 and 9 then answer is 3 since the prime numbers are 7, 13 and 11. (Hint: Smallest factor of a prime number is equal to itself). [Smallest factor]
+4. **Prime numbers:**([java](Assignment1/prime.java),[C++](Assignment1/prime.cpp)) Write JAVA & C++ program, which reads n and n numbers and finds how many of them are prime. e.g. if n=6 and given numbers are 7, 13, 16, 27, 11 and 9 then answer is 3 since the prime numbers are 7, 13 and 11. (Hint: Smallest factor of a prime number is equal to itself). [Smallest factor]
 
-5. **Sum of Primes:**([java](Assignment1/.java),[C++](Assignment1/.cpp)) Write JAVA & C++ program, which finds the sum of prime numbers. (In above case 7+13+11 = 31).
+5. **Sum of Primes:**([java](Assignment1/primeSum.java),[C++](Assignment1/primeSum.cpp)) Write JAVA & C++ program, which finds the sum of prime numbers. (In above case 7+13+11 = 31).
 
-6. **Biggest Prime:**([java](Assignment1/.java),[C++](Assignment1/.cpp)) Write JAVA & C++ program, which finds the biggest prime (in above case 13).
+6. **Biggest Prime:**([java](Assignment1/bigPrime.java),[C++](Assignment1/bigPrime.cpp)) Write JAVA & C++ program, which finds the biggest prime (in above case 13).
 
-7. **Sum power smallest factor:**([java](Assignment1/.java),[C++](Assignment1/.cpp)) Write JAVA & C++ program, which reads a number and finds (sum of digits) smallest factor. If number is 455 then output is 145. [Sum of digits, smallest factor, power]
+7. **Sum power smallest factor:**([java](Assignment1/sumPowFact.java),[C++](Assignment1/sumPowFact.cpp)) Write JAVA & C++ program, which reads a number and finds (sum of digits) smallest factor. If number is 455 then output is 14^5. [Sum of digits, smallest factor, power]
 
-8. **Factorial's first digit:**([java](Assignment1/.java),[C++](Assignment1/.cpp)) Write JAVA & C++ program, which reads a number and finds first digit of its factorial.
+8. **Factorial's first digit:**([java](Assignment1/factorial.java),[C++](Assignment1/factorial.cpp)) Write JAVA & C++ program, which reads a number and finds first digit of its factorial.
 Input 6 output 7 (since 6!=720). [First digit and factorial].
 ---
 
