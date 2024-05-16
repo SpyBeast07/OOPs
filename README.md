@@ -1,8 +1,105 @@
 # Object Oriented Programming Assignment (OOPs)
 
-This repository contains the solutions to the Object Oriented Programming assignment for OOPs. Each question is implemented in Java and is organized in separate files.
+This repository contains the solutions to the Object Oriented Programming assignment for OOPs.
+
+# Assignment 1
+Each question is implemented in Java & C++ and is organized in separate files.
+## Part 1: Simple Digit Programs
+
+1. **:**([java](Assignment1/.java),[C++](Assignment1/.cpp)) Program to calculate the area of a rectangle.
+
+2. **:**([java](Assignment1/.java),[C++](Assignment1/.cpp)) Program to calculate the sum of square of the first number and cube of the second number.
+
+3. **:**([java](Assignment1/.java),[C++](Assignment1/.cpp)) Program to calculate the value of a quadratic function.
+
+4. **:**([java](Assignment1/.java),[C++](Assignment1/.cpp)) Program to delete the last two digits of a number.
+
+5. **:**([java](Assignment1/.java),[C++](Assignment1/.cpp)) Program to exchange the last and third last digit of a number.
+
+6. **:**([java](Assignment1/.java),[C++](Assignment1/.cpp)) Program to double the second last digit of a number.
+
+7. **:**([java](Assignment1/.java),[C++](Assignment1/.cpp)) Program to find the product of two numbers after exchanging their last digits.
+
+## Part 2: Conditional Statement
+
+1. **:**([java](Assignment1/.java),[C++](Assignment1/.cpp)) Program to print all even numbers between 20 and 70.
+
+2. **:**([java](Assignment1/.java),[C++](Assignment1/.cpp)) Program to print even numbers between 20 and 40, and odd numbers between 50 and 80.
+
+3. **:**([java](Assignment1/.java),[C++](Assignment1/.cpp)) Program to print numbers whose last digit is a multiple of 3.
+
+4. **:**([java](Assignment1/.java),[C++](Assignment1/.cpp)) Program to print numbers whose last digit is between 5 and 8.
+
+5. **:**([java](Assignment1/.java),[C++](Assignment1/.cpp)) Program to print numbers whose sum of both digits is a multiple of 7.
+
+6. **:**([java](Assignment1/.java),[C++](Assignment1/.cpp)) Program to print numbers between certain ranges.
+
+7. **:**([java](Assignment1/.java),[C++](Assignment1/.cpp)) Program to print numbers whose first digit leaves a remainder of 1 when divided by 3.
+
+8. **:**([java](Assignment1/.java),[C++](Assignment1/.cpp)) Program to print odd and even numbers in specific ranges.
+
+## Part 3: Reading a Loop
+
+1. **:**([java](Assignment1/.java),[C++](Assignment1/.cpp)) Program to find the sum of n numbers.
+
+2. **:**([java](Assignment1/.java),[C++](Assignment1/.cpp)) Program to find the sum of last digits of n numbers.
+
+3. **:**([java](Assignment1/.java),[C++](Assignment1/.cpp)) Program to find the sum of second last digits of n numbers.
+
+4. **:**([java](Assignment1/.java),[C++](Assignment1/.cpp)) Program to find the sum of numbers after deleting the second last digit.
+
+5. **:**([java](Assignment1/.java),[C++](Assignment1/.cpp)) Program to find the weighted sum of even numbers.
+
+6. **:**([java](Assignment1/.java),[C++](Assignment1/.cpp)) Program to find sum of the product of two consecutive numbers.
+
+7. **:**([java](Assignment1/.java),[C++](Assignment1/.cpp)) Program to find the sum of all numbers from the first even number onwards.
+
+8. **:**([java](Assignment1/.java),[C++](Assignment1/.cpp)) Program to print the second last even digit.
+
+9. **:**([java](Assignment1/.java),[C++](Assignment1/.cpp)) Program to find the sum of numbers formed by consecutive digits.
+
+10. **:**([java](Assignment1/.java),[C++](Assignment1/.cpp)) Program to find the sum of numbers formed by exchanging consecutive digits.
+
+## Part 4: Arrays, Loops, and Decision Statement
+
+1. **:**([java](Assignment1/.java),[C++](Assignment1/.cpp)) Program to find the maximum of n numbers.
+
+2. **:**([java](Assignment1/.java),[C++](Assignment1/.cpp)) Program to find the sum of all numbers except the maximum number.
+
+3. **:**([java](Assignment1/.java),[C++](Assignment1/.cpp)) Program to find the number with the maximum sum of digits.
+
+4. **:**([java](Assignment1/.java),[C++](Assignment1/.cpp)) Program to delete the maximum digit in a number.
+
+5. **:**([java](Assignment1/.java),[C++](Assignment1/.cpp)) Program to delete the maximum digit in a number with multiple occurrences.
+
+6. **:**([java](Assignment1/.java),[C++](Assignment1/.cpp)) Program to find the number with the maximum sum of digits with multiple occurrences.
+
+7. **:**([java](Assignment1/.java),[C++](Assignment1/.cpp)) Program to delete the maximum digit in a number with multiple occurrences.
+
+8. **:**([java](Assignment1/.java),[C++](Assignment1/.cpp)) Program to find the number with the maximum sum of digits with multiple occurrences.
+
+## Part 5: Nested Loop
+
+1. **:**([java](Assignment1/.java),[C++](Assignment1/.cpp)) Program to find the sum of first digits of n numbers.
+
+2. **:**([java](Assignment1/.java),[C++](Assignment1/.cpp)) Program to find the sum of numbers whose first digit is 1.
+
+3. **:**([java](Assignment1/.java),[C++](Assignment1/.cpp)) Program to find the sum of numbers after reversing.
+
+4. **:**([java](Assignment1/.java),[C++](Assignment1/.cpp)) Program to find the number of prime numbers in a given set of numbers.
+
+5. **:**([java](Assignment1/.java),[C++](Assignment1/.cpp)) Program to find the sum of prime numbers.
+
+6. **:**([java](Assignment1/.java),[C++](Assignment1/.cpp)) Program to find the biggest prime number.
+
+7. **:**([java](Assignment1/.java),[C++](Assignment1/.cpp)) Program to find the smallest factor of a number.
+
+8. **:**([java](Assignment1/.java),[C++](Assignment1/.cpp)) Program to find the first digit of the factorial of a number.
+
+---
 
 # Assignment 2
+Each question is implemented in Java and is organized in separate files.
 ## Part 1: Class and Objects
 
 1. [**Vehicle Class:**](Assignment2/VehicleMain1.java) Create a class `Vehicle` with `no_of_seats` and `no_of_wheels` fields. Create objects for `Motorcycle` and `Car` and display their descriptions.
@@ -82,6 +179,8 @@ This repository contains the solutions to the Object Oriented Programming assign
 35. [**Delete First Digit:**](Assignment2/lastdel35.java) Delete the first digit of a number.
 
 36. [**Increment Even Digits:**](Assignment2/inceven36.java) Increment all even digits in a number.
+
+---
 
 # How to Run
 
