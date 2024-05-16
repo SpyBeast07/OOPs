@@ -1,0 +1,4 @@
+-> There are no data members in an interface to initialize because they are public, static, and final. While abstract class can have members and concrete methods and constructors because there is 0-100% abstraction.
+-> Interface provide 100% abstraction and cannot be instantiated. So, there can’t be constructor in an interface.
+-> There are no non-static data members in the interface.
+-> Methods in interface are only declared, so no point of making constructor in interface.
