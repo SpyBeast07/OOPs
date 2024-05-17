@@ -15,7 +15,3 @@ Each question is implemented in Java and is organized in separate files.
 # How to Run
 
 Compile and run each Java file individually to see the output of each question.
-
----
-
-Feel free to reach out if you have any questions or suggestions!
