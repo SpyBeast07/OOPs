@@ -9,7 +9,7 @@ Each question is implemented in Java & C++ and is organized in separate files.
 3. **Calculate quadratic eq:**([java](quadratic.java),[C++](quadratic.cpp)) Write JAVA & C++
 program, which reads 4 numbers a, b, c and p. Let f(x)=ax2+bx+c be a Method. The program outputs the value of f(p). e.g. input 4 3 – 1 2 output 4(2)2+3(2)-1= 21.
 
-4. **Delte last 2 digits:**([java](deleteLast2Digit.java),[C++](deleteLast2Digit.cpp)) Write JAVA & C++ program to delete last two digits. input 13613 output 136. input 324 output 4.
+4. **Delete last 2 digits:**([java](deleteLast2Digit.java),[C++](deleteLast2Digit.cpp)) Write JAVA & C++ program to delete last two digits. input 13613 output 136. input 324 output 4.
 
 5. **Exchange last and 3rd last digits:**([java](exc3Nlast.java),[C++](exc3Nlast.cpp)) Write JAVA & C++ program to exchange last and third last digit. e.g. input 23617 output 23716.
 
